@@ -1,0 +1,16 @@
+{
+  "assets": [
+    {
+      "file": "agexa/assets/brand-reference-restored.png",
+      "sourceType": "user-reference-derived",
+      "creator": "Marca AGEXA fornecida como referência pelo utilizador; preparação assistida por OpenAI image_gen",
+      "rightsBasis": "Uso da marca solicitado pelo titular do briefing. Derivado visual para a campanha, não um novo símbolo nem prova de titularidade. Requer aprovação visual do responsável pela marca; ficheiro master original indisponível.",
+      "termsUrl": "https://openai.com/policies/terms-of-use/",
+      "source": "Imagem inline anexada ao pedido AGEXA",
+      "createdDate": "2026-11-01",
+      "sha256": "91ee774e4e370c32f396c368c2b3c40d5670fc5eb591945c90994e2ff40f58ac",
+      "approvalStatus": "pending-brand-owner",
+      "credit": "AGEXA — referência de marca fornecida pelo utilizador."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "project": "AGEXA — Cinematic Motion Design Campaign",
+  "auditedAt": "2026-11-01",
+  "website": "https://agexa-flix.base44.app",
+  "status": "blocked-by-network-policy",
+  "evidence": [
+    {
+      "observedAt": "2026-11-01T19:01:13Z",
+      "observer": "parent production agent",
+      "method": "HTTPS request through inherited environment proxy",
+      "result": "HTTP 403 / CONNECT tunnel failed",
+      "source": "Parent agent reported the explicit Envoy proxy policy denial. This audit agent did not receive a completed response from its own initial request."
+    }
+  ],
+  "availableMaterials": [
+    {
+      "kind": "creative-brief",
+      "origin": "user-uploaded pasted text",
+      "path": "/workspace/attachments/de24c633-1cca-42bb-b1f3-d0d72d924a72/Texto colado.txt"
+    },
+    {
+      "kind": "brand-reference-image",
+      "origin": "user inline image",
+      "localOriginalAssetAvailable": false,
+      "notes": "Visual reference was supplied in the conversation. No original downloadable logo master was available to this audit task."
+    }
+  ],
+  "obtainedAssets": [],
+  "verifiedPublicProductScreens": [],
+  "verifiedProductFeatures": [],
+  "briefClaimsOnly": [
+    "Organisation of services, professionals, schedules and bookings",
+    "Clients select a service and an available time and book online",
+    "Owners follow and organise received bookings"
+  ],
+  "limitations": [
+    "No real public interface was captured or verified.",
+    "No original logo master was downloaded.",
+    "No sign-up, booking, contact message or form submission was performed.",
+    "The network restriction was not bypassed.",
+    "The user reported that no alternative links or screenshots were available."
+  ],
+  "productionRules": [
+    "Do not present invented interfaces as the real AGEXA interface.",
+    "Use clearly labelled conceptual visualisations where real interface footage would have appeared.",
+    "If a visual derivative of the inline logo reference is created, disclose that it is derived artwork rather than an original logo master.",
+    "Do not claim product features or results as independently verified.",
+    "Replace conceptual visualisations with authorised product screenshots when they become available."
+  ],
+  "contactFromBrief": {
+    "website": "https://agexa-flix.base44.app",
+    "whatsapp": "+258 84 671 1987"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "status": "recording-required",
+  "language": "pt-MZ",
+  "narrationProduced": false,
+  "reason": "Não foi identificado um motor de voz com português natural de Moçambique. Nenhuma voz brasileira ou robótica foi apresentada como moçambicana.",
+  "direction": "Voz humana moçambicana adulta, natural, segura e calorosa. Pronunciar Agexa com aprovação da marca. Gravar WAV 48 kHz/24 bit, sem música e sem efeitos, nos tempos indicados. A versão visual é completa e funciona sem narração.",
+  "main": [
+    {
+      "start": 0,
+      "end": 4,
+      "text": "O teu negócio pode estar a perder clientes sem perceber."
+    },
+    {
+      "start": 4,
+      "end": 10,
+      "text": "Mensagens acumuladas. Horários confundidos. Marcações esquecidas."
+    },
+    {
+      "start": 10,
+      "end": 15,
+      "text": "Está na hora de organizar tudo de outra forma."
+    },
+    {
+      "start": 15,
+      "end": 25,
+      "text": "Com o Agexa, os teus clientes podem escolher um serviço, encontrar um horário disponível e fazer a marcação online."
+    },
+    {
+      "start": 25,
+      "end": 33,
+      "text": "E tu acompanhas as marcações e organizas os teus serviços num só lugar."
+    },
+    {
+      "start": 33,
+      "end": 40,
+      "text": "Tens um negócio? Experimenta o Agexa. Solicita uma demonstração."
+    }
+  ],
+  "short": [
+    {
+      "start": 0,
+      "end": 3,
+      "text": "Marcações a acumular?"
+    },
+    {
+      "start": 3,
+      "end": 5.5,
+      "text": "Há uma forma mais simples."
+    },
+    {
+      "start": 5.5,
+      "end": 10,
+      "text": "Agexa. Os clientes escolhem e agendam online."
+    },
+    {
+      "start": 10,
+      "end": 15,
+      "text": "Tens um negócio? Solicita uma demonstração."
+    }
+  ],
+  "ctaAdaptation": "O fecho foi condensado para a CTA principal e secundária aprovadas no briefing, dando tempo de leitura ao website e WhatsApp."
+}

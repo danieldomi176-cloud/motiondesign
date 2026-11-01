@@ -1,0 +1,114 @@
+{
+  "narrationProduced": false,
+  "audioSampleRate": 48000,
+  "originalTempoBPM": 100,
+  "score": "Tensão em Fá sustenido com resolução em Lá; assinatura de quatro notas de vidro.",
+  "mainCues": {
+    "notifications": [
+      0.34,
+      1.2,
+      2.05,
+      3.1,
+      4.25,
+      5.15
+    ],
+    "acceleratingClock": [
+      6,
+      9.55
+    ],
+    "preRevealBreath": [
+      9.65,
+      9.95
+    ],
+    "brandSignature": 10.15,
+    "productClicks": [
+      15.8,
+      18.6,
+      21,
+      23
+    ],
+    "confirmation": 24,
+    "businessClicks": [
+      25.2,
+      27.2,
+      29.2,
+      31.4
+    ],
+    "cta": 33,
+    "sonicSignatures": [
+      34,
+      38
+    ]
+  },
+  "shortCues": {
+    "brandSignature": 3.15,
+    "productClicks": [
+      5.35,
+      6.65,
+      8,
+      9.25
+    ],
+    "confirmation": 9.3,
+    "cta": 10.5,
+    "sonicSignatures": [
+      11,
+      13.15
+    ]
+  },
+  "renders": {
+    "mix": {
+      "durationSeconds": 40.0,
+      "sampleRate": 48000,
+      "channels": 2,
+      "peakDbFS": -3.7487502098083496,
+      "rmsDbFS": -17.87664031982422,
+      "minimumHalfSecondRmsDbFS": -29.92270963176064,
+      "measuredIntegratedLUFS": -16.0,
+      "measuredTruePeakDbTP": -3.74,
+      "sha256": "517641e2ca1c3fffef9b205d3bb133bd99c136ed8422af753e6b2ef85054e2de",
+      "production": {
+        "inputLoudness": {
+          "input_i": "-25.41",
+          "input_tp": "-13.15",
+          "input_lra": "2.00",
+          "input_thresh": "-35.46",
+          "output_i": "-16.49",
+          "output_tp": "-3.84",
+          "output_lra": "1.70",
+          "output_thresh": "-26.52",
+          "normalization_type": "dynamic",
+          "target_offset": "0.49"
+        },
+        "masteringLog": "[aist#0:0/pcm_s16le @ 0x564e981366c0] Guessed Channel Layout: stereo\nInput #0, wav, from '/workspace/motiondesign/public/agexa/audio/music.wav':\n  Duration: 00:00:40.00, bitrate: 1536 kb/s\n  Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 48000 Hz, stereo, s16, 1536 kb/s\n[aist#1:0/pcm_s16le @ 0x564e981d8a40] Guessed Channel Layout: stereo\nInput #1, wav, from '/workspace/motiondesign/public/agexa/audio/sfx.wav':\n  Duration: 00:00:40.00, bitrate: 1536 kb/s\n  Stream #1:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 48000 Hz, stereo, s16, 1536 kb/s\nStream mapping:\n  Stream #0:0 (pcm_s16le) -> amix\n  Stream #1:0 (pcm_s16le) -> amix\n  loudnorm:default -> Stream #0:0 (pcm_s16le)\nPress [q] to stop, [?] for help\nOutput #0, wav, to '/workspace/motiondesign/public/agexa/audio/mix.wav':\n  Metadata:\n    ISFT            : Lavf61.7.103\n  Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 48000 Hz, stereo, s16, 1536 kb/s\n      Metadata:\n        encoder         : Lavc61.19.101 pcm_s16le\n[Parsed_loudnorm_1 @ 0x7f009c004180] \n{\n\t\"input_i\" : \"-25.35\",\n\t\"input_tp\" : \"-13.16\",\n\t\"input_lra\" : \"2.00\",\n\t\"input_thresh\" : \"-35.38\",\n\t\"output_i\" : \"-15.94\",\n\t\"output_tp\" : \"-3.75\",\n\t\"output_lra\" : \"2.00\",\n\t\"output_thresh\" : \"-25.97\",\n\t\"normalization_type\" : \"linear\",\n\t\"target_offset\" : \"-0.06\"\n}\n[out#0/wav @ 0x564e98099940] video:0KiB audio:7500KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.001016%\nsize=    7500KiB time=00:00:40.00 bitrate=1536.0kbits/s speed= 249x    \n",
+        "narrationProvided": false
+      }
+    },
+    "short-mix": {
+      "durationSeconds": 15.0,
+      "sampleRate": 48000,
+      "channels": 2,
+      "peakDbFS": -4.043890953063965,
+      "rmsDbFS": -17.949827194213867,
+      "minimumHalfSecondRmsDbFS": -30.344741330367828,
+      "measuredIntegratedLUFS": -15.99,
+      "measuredTruePeakDbTP": -4.04,
+      "sha256": "f177e3e220daccd74b40a8a478f4de1f583782bb67642afd9364b3c274763409",
+      "production": {
+        "inputLoudness": {
+          "input_i": "-24.97",
+          "input_tp": "-13.01",
+          "input_lra": "1.80",
+          "input_thresh": "-35.09",
+          "output_i": "-16.21",
+          "output_tp": "-4.34",
+          "output_lra": "1.80",
+          "output_thresh": "-26.29",
+          "normalization_type": "dynamic",
+          "target_offset": "0.21"
+        },
+        "masteringLog": "[aist#0:0/pcm_s16le @ 0x56147f6b1680] Guessed Channel Layout: stereo\nInput #0, wav, from '/workspace/motiondesign/public/agexa/audio/short-music.wav':\n  Duration: 00:00:15.00, bitrate: 1536 kb/s\n  Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 48000 Hz, stereo, s16, 1536 kb/s\n[aist#1:0/pcm_s16le @ 0x56147f7539c0] Guessed Channel Layout: stereo\nInput #1, wav, from '/workspace/motiondesign/public/agexa/audio/short-sfx.wav':\n  Duration: 00:00:15.00, bitrate: 1536 kb/s\n  Stream #1:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 48000 Hz, stereo, s16, 1536 kb/s\nStream mapping:\n  Stream #0:0 (pcm_s16le) -> amix\n  Stream #1:0 (pcm_s16le) -> amix\n  loudnorm:default -> Stream #0:0 (pcm_s16le)\nPress [q] to stop, [?] for help\nOutput #0, wav, to '/workspace/motiondesign/public/agexa/audio/short-mix.wav':\n  Metadata:\n    ISFT            : Lavf61.7.103\n  Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 48000 Hz, stereo, s16, 1536 kb/s\n      Metadata:\n        encoder         : Lavc61.19.101 pcm_s16le\n[Parsed_loudnorm_1 @ 0x7f7de8003940] \n{\n\t\"input_i\" : \"-24.80\",\n\t\"input_tp\" : \"-13.01\",\n\t\"input_lra\" : \"1.80\",\n\t\"input_thresh\" : \"-34.88\",\n\t\"output_i\" : \"-15.83\",\n\t\"output_tp\" : \"-4.04\",\n\t\"output_lra\" : \"1.70\",\n\t\"output_thresh\" : \"-25.91\",\n\t\"normalization_type\" : \"linear\",\n\t\"target_offset\" : \"-0.17\"\n}\n[out#0/wav @ 0x56147f614940] video:0KiB audio:2812KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.002708%\nsize=    2813KiB time=00:00:15.00 bitrate=1536.0kbits/s speed= 244x    \n",
+        "narrationProvided": false
+      }
+    }
+  }
+}

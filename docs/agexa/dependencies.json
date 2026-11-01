@@ -1,0 +1,46 @@
+[
+  {
+    "name": "remotion",
+    "version": "4.0.539",
+    "license": "SEE LICENSE IN LICENSE.md",
+    "repository": {
+      "url": "https://github.com/remotion-dev/remotion/tree/main/packages/core"
+    }
+  },
+  {
+    "name": "@remotion/three",
+    "version": "4.0.539",
+    "license": "MIT",
+    "repository": {
+      "url": "https://github.com/remotion-dev/remotion/tree/main/packages/three"
+    }
+  },
+  {
+    "name": "three",
+    "version": "0.178.0",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/mrdoob/three.js"
+    }
+  },
+  {
+    "name": "@react-three/fiber",
+    "version": "9.2.0",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/pmndrs/react-three-fiber.git"
+    }
+  },
+  {
+    "name": "react",
+    "version": "19.2.0",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/facebook/react.git",
+      "directory": "packages/react"
+    }
+  }
+]

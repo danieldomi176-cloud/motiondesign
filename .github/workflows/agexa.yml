@@ -1,0 +1,44 @@
+name: Render AGEXA Campaign
+on:
+  workflow_dispatch:
+    inputs:
+      full_3d:
+        description: Raster 3D integral (mais lento)
+        required: false
+        default: false
+        type: boolean
+permissions:
+  contents: read
+jobs:
+  render:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 45
+    env:
+      BROWSER_EXECUTABLE: /usr/bin/google-chrome
+      FULL_3D: ${{ inputs.full_3d }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+      - name: Instalar FFmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+      - run: npm ci
+      - name: Tipos e testes
+        run: npm run typecheck && npm test
+      - name: Verificar fotogramas 3D reais
+        run: npm run agexa:stills
+      - name: Renderizar os dois anúncios
+        run: |
+          if [ "$FULL_3D" = "true" ]; then
+            npm run agexa:render -- --full-3d
+          else
+            npm run agexa:render
+          fi
+      - uses: actions/upload-artifact@v4
+        with:
+          name: AGEXA-Motion-Design-${{ github.run_id }}
+          path: out/agexa/
+          if-no-files-found: error
+          retention-days: 14

@@ -1,0 +1,68 @@
+{
+  "brand": "AGEXA",
+  "tagline": "A organização que trabalha por ti.",
+  "website": "agexa-flix.base44.app",
+  "websiteUrl": "https://agexa-flix.base44.app",
+  "whatsapp": "+258 84 671 1987",
+  "whatsappUrl": "https://wa.me/258846711987",
+  "locale": "pt-MZ",
+  "logoFile": "agexa/assets/brand-reference-restored.png",
+  "clientScreens": [],
+  "businessScreens": [],
+  "productScreenNote": "VISUALIZAÇÃO CONCEPTUAL",
+  "assetsVerified": false,
+  "audio": {
+    "main": "agexa/audio/mix.wav",
+    "short": "agexa/audio/short-mix.wav"
+  },
+  "palette": {
+    "black": "#08080D",
+    "purple": "#7C3AED",
+    "violet": "#A855F7",
+    "white": "#FFFFFF",
+    "gray": "#A1A1AA"
+  },
+  "hook": {
+    "lead": "CLIENTES.",
+    "question": "PERDIDOS?",
+    "support": "O teu negócio pode estar a perder clientes sem perceber."
+  },
+  "pain": [
+    "Mensagens.",
+    "Confusão.",
+    "Tempo perdido."
+  ],
+  "reveal": "Está na hora de organizar tudo de outra forma.",
+  "product": [
+    {
+      "title": "ESCOLHE.",
+      "detail": "Um serviço à tua medida."
+    },
+    {
+      "title": "AGENDA.",
+      "detail": "Um horário disponível."
+    },
+    {
+      "title": "SIMPLES.",
+      "detail": "A tua marcação online."
+    }
+  ],
+  "benefit": {
+    "title": "Mais organização.",
+    "accent": "Menos complicação.",
+    "features": [
+      "Marcações",
+      "Serviços",
+      "Profissionais",
+      "Horários"
+    ]
+  },
+  "cta": {
+    "intro": "TENS UM NEGÓCIO?",
+    "headline": "O teu negócio\nmerece o AGEXA.",
+    "action": "Solicita uma demonstração.",
+    "secondary": "Experimenta o AGEXA."
+  },
+  "logoIsOriginal": false,
+  "brandAssetNote": "Derivado visual da referência enviada pelo utilizador, com preparação assistida por IA. Requer aprovação da marca; não é o ficheiro master original."
+}

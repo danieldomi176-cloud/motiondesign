@@ -1,0 +1,103 @@
+{
+  "assets": [
+    {
+      "file": "agexa/audio/clock-tick.wav",
+      "creator": "AGEXA campaign original procedural composer / sound designer",
+      "sourceType": "original-procedural-composition-and-synthesis",
+      "rightsBasis": "Composição e síntese sonoras originais produzidas pelo código deste projeto. Sem samples, gravações ou música comercial de terceiros. Se for importada uma narração, aplicam-se adicionalmente os direitos dessa gravação.",
+      "credit": "Música e sound design originais para a campanha AGEXA.",
+      "sha256": "92a06094169d69377050e8fd585442542ff20a25e007110c4803d1c9573733ab",
+      "attributionRequired": false
+    },
+    {
+      "file": "agexa/audio/confirmation.wav",
+      "creator": "AGEXA campaign original procedural composer / sound designer",
+      "sourceType": "original-procedural-composition-and-synthesis",
+      "rightsBasis": "Composição e síntese sonoras originais produzidas pelo código deste projeto. Sem samples, gravações ou música comercial de terceiros. Se for importada uma narração, aplicam-se adicionalmente os direitos dessa gravação.",
+      "credit": "Música e sound design originais para a campanha AGEXA.",
+      "sha256": "ca2fa98bdb87845def6fb04cf217bf57f570a75d473072ad86a31f85a2f2c1fa",
+      "attributionRequired": false
+    },
+    {
+      "file": "agexa/audio/mix.wav",
+      "creator": "AGEXA campaign original procedural composer / sound designer",
+      "sourceType": "original-procedural-composition-and-synthesis",
+      "rightsBasis": "Composição e síntese sonoras originais produzidas pelo código deste projeto. Sem samples, gravações ou música comercial de terceiros. Se for importada uma narração, aplicam-se adicionalmente os direitos dessa gravação.",
+      "credit": "Música e sound design originais para a campanha AGEXA.",
+      "sha256": "517641e2ca1c3fffef9b205d3bb133bd99c136ed8422af753e6b2ef85054e2de",
+      "attributionRequired": false
+    },
+    {
+      "file": "agexa/audio/music.wav",
+      "creator": "AGEXA campaign original procedural composer / sound designer",
+      "sourceType": "original-procedural-composition-and-synthesis",
+      "rightsBasis": "Composição e síntese sonoras originais produzidas pelo código deste projeto. Sem samples, gravações ou música comercial de terceiros. Se for importada uma narração, aplicam-se adicionalmente os direitos dessa gravação.",
+      "credit": "Música e sound design originais para a campanha AGEXA.",
+      "sha256": "f22aab48e1b2a821b7f1dd7f188da53f8ba94e5731ef1d846fd345b1a57aa2ef",
+      "attributionRequired": false
+    },
+    {
+      "file": "agexa/audio/notification.wav",
+      "creator": "AGEXA campaign original procedural composer / sound designer",
+      "sourceType": "original-procedural-composition-and-synthesis",
+      "rightsBasis": "Composição e síntese sonoras originais produzidas pelo código deste projeto. Sem samples, gravações ou música comercial de terceiros. Se for importada uma narração, aplicam-se adicionalmente os direitos dessa gravação.",
+      "credit": "Música e sound design originais para a campanha AGEXA.",
+      "sha256": "0b5b210ad6b82a9d6d465f3bde863e3339ed97bec5d41da388df6330c1b4575a",
+      "attributionRequired": false
+    },
+    {
+      "file": "agexa/audio/sfx.wav",
+      "creator": "AGEXA campaign original procedural composer / sound designer",
+      "sourceType": "original-procedural-composition-and-synthesis",
+      "rightsBasis": "Composição e síntese sonoras originais produzidas pelo código deste projeto. Sem samples, gravações ou música comercial de terceiros. Se for importada uma narração, aplicam-se adicionalmente os direitos dessa gravação.",
+      "credit": "Música e sound design originais para a campanha AGEXA.",
+      "sha256": "353a5b11ea422f4c42ccd11f097fbcc362da3ff4d45ea132a5dad387d7155026",
+      "attributionRequired": false
+    },
+    {
+      "file": "agexa/audio/short-mix.wav",
+      "creator": "AGEXA campaign original procedural composer / sound designer",
+      "sourceType": "original-procedural-composition-and-synthesis",
+      "rightsBasis": "Composição e síntese sonoras originais produzidas pelo código deste projeto. Sem samples, gravações ou música comercial de terceiros. Se for importada uma narração, aplicam-se adicionalmente os direitos dessa gravação.",
+      "credit": "Música e sound design originais para a campanha AGEXA.",
+      "sha256": "f177e3e220daccd74b40a8a478f4de1f583782bb67642afd9364b3c274763409",
+      "attributionRequired": false
+    },
+    {
+      "file": "agexa/audio/short-music.wav",
+      "creator": "AGEXA campaign original procedural composer / sound designer",
+      "sourceType": "original-procedural-composition-and-synthesis",
+      "rightsBasis": "Composição e síntese sonoras originais produzidas pelo código deste projeto. Sem samples, gravações ou música comercial de terceiros. Se for importada uma narração, aplicam-se adicionalmente os direitos dessa gravação.",
+      "credit": "Música e sound design originais para a campanha AGEXA.",
+      "sha256": "af1d6ef40bf61d44882c13b2df3a3e524c44f5564787ff40d7d28a4b488d171e",
+      "attributionRequired": false
+    },
+    {
+      "file": "agexa/audio/short-sfx.wav",
+      "creator": "AGEXA campaign original procedural composer / sound designer",
+      "sourceType": "original-procedural-composition-and-synthesis",
+      "rightsBasis": "Composição e síntese sonoras originais produzidas pelo código deste projeto. Sem samples, gravações ou música comercial de terceiros. Se for importada uma narração, aplicam-se adicionalmente os direitos dessa gravação.",
+      "credit": "Música e sound design originais para a campanha AGEXA.",
+      "sha256": "ac8e00ec72bd47372f364909ad3c98c11bc1f9bf82b8385643d392ee8d99f226",
+      "attributionRequired": false
+    },
+    {
+      "file": "agexa/audio/sonic-logo.wav",
+      "creator": "AGEXA campaign original procedural composer / sound designer",
+      "sourceType": "original-procedural-composition-and-synthesis",
+      "rightsBasis": "Composição e síntese sonoras originais produzidas pelo código deste projeto. Sem samples, gravações ou música comercial de terceiros. Se for importada uma narração, aplicam-se adicionalmente os direitos dessa gravação.",
+      "credit": "Música e sound design originais para a campanha AGEXA.",
+      "sha256": "b12312ac758e075956d0423c0b810ee607063993812e9e6b4471904be52d6a6c",
+      "attributionRequired": false
+    },
+    {
+      "file": "agexa/audio/transition.wav",
+      "creator": "AGEXA campaign original procedural composer / sound designer",
+      "sourceType": "original-procedural-composition-and-synthesis",
+      "rightsBasis": "Composição e síntese sonoras originais produzidas pelo código deste projeto. Sem samples, gravações ou música comercial de terceiros. Se for importada uma narração, aplicam-se adicionalmente os direitos dessa gravação.",
+      "credit": "Música e sound design originais para a campanha AGEXA.",
+      "sha256": "31d9286e55e229cde3b42398a464d74fe29e34e2ed7f72e3236c80586a8c4400",
+      "attributionRequired": false
+    }
+  ]
+}

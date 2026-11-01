@@ -1,8 +1,8 @@
 {
-  "name": "football-shorts-studio",
+  "name": "motion-design-studio",
   "version": "1.0.0",
   "private": true,
-  "description": "Estúdio de produção de YouTube Shorts de futebol com Remotion e FFmpeg",
+  "description": "Estúdio de campanhas audiovisuais em Remotion, React, Three.js e FFmpeg",
   "scripts": {
     "studio": "remotion studio src/index.ts --no-open",
     "dev": "npm run studio",
@@ -13,24 +13,32 @@
     "validate": "tsx scripts/validate.ts",
     "metadata": "tsx scripts/metadata.ts",
     "speech:setup": "bash scripts/setup-speech.sh",
-    "speech": "bash scripts/speech.sh"
+    "speech": "bash scripts/speech.sh",
+    "agexa:stills": "tsx scripts/agexa/render.ts --stills",
+    "agexa:preview": "tsx scripts/agexa/render.ts --preview",
+    "agexa:render": "tsx scripts/agexa/render.ts",
+    "agexa:audio": "python3 scripts/agexa-audio.py"
   },
   "dependencies": {
+    "@react-three/fiber": "9.2.0",
     "@remotion/bundler": "4.0.539",
     "@remotion/captions": "4.0.539",
     "@remotion/cli": "4.0.539",
     "@remotion/media": "4.0.539",
     "@remotion/renderer": "4.0.539",
+    "@remotion/three": "4.0.539",
     "@remotion/transitions": "4.0.539",
     "react": "19.2.0",
     "react-dom": "19.2.0",
     "remotion": "4.0.539",
+    "three": "0.178.0",
     "zod": "4.5.4"
   },
   "devDependencies": {
     "@types/node": "^24.10.0",
     "@types/react": "^19.2.0",
     "@types/react-dom": "^19.2.0",
+    "@types/three": "0.178.1",
     "tsx": "^4.20.6",
     "typescript": "^5.9.3"
   },
