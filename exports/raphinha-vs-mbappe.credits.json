@@ -1,0 +1,199 @@
+{
+  "assets": [
+    {
+      "file": "demo/audio/music.wav",
+      "creator": "Football Shorts Studio procedural synthesizer",
+      "sourceType": "procedural-original",
+      "rightsBasis": "Composição e síntese originais geradas pelo código deste projeto. Sem samples externos.",
+      "credit": "Música e efeitos sonoros originais — Football Shorts Studio.",
+      "sha256": "bc672a4f624f5b7a589609d269319117c1035714f86100226c7b6f93cc3f8711",
+      "attributionRequired": false
+    },
+    {
+      "file": "demo/audio/impact.wav",
+      "creator": "Football Shorts Studio procedural synthesizer",
+      "sourceType": "procedural-original",
+      "rightsBasis": "Composição e síntese originais geradas pelo código deste projeto. Sem samples externos.",
+      "credit": "Música e efeitos sonoros originais — Football Shorts Studio.",
+      "sha256": "16dafa922d9408cab3e203a9e4fcbfb104308eacc51655eb8475ab23b2cee31b",
+      "attributionRequired": false
+    },
+    {
+      "file": "demo/audio/whoosh.wav",
+      "creator": "Football Shorts Studio procedural synthesizer",
+      "sourceType": "procedural-original",
+      "rightsBasis": "Composição e síntese originais geradas pelo código deste projeto. Sem samples externos.",
+      "credit": "Música e efeitos sonoros originais — Football Shorts Studio.",
+      "sha256": "950da9f2c022280c6ac0b528b4ad08f433faf476d45fb28c909d01721212c95d",
+      "attributionRequired": false
+    },
+    {
+      "file": "demo/audio/timeline-effects.generated.wav",
+      "creator": "Football Shorts Studio FFmpeg mixer",
+      "sourceType": "derived-audio-mix",
+      "rightsBasis": "Mistura derivada dos recursos identificados; mantém as licenças, atribuições e restrições das fontes.",
+      "sources": [
+        "demo/audio/narration.wav",
+        "demo/audio/music.wav",
+        "demo/audio/impact.wav",
+        "demo/audio/whoosh.wav"
+      ],
+      "credit": "Mistura Football Shorts Studio. Consultar os créditos da voz, música e efeitos de entrada.",
+      "sha256": "999103732c4828a4d0441e87f853c85f37c5025ff1b30c9df5bcc5d0cab68ac0"
+    },
+    {
+      "file": "demo/audio/mix.wav",
+      "creator": "Football Shorts Studio FFmpeg mixer",
+      "sourceType": "derived-audio-mix",
+      "rightsBasis": "Mistura derivada dos recursos identificados; mantém as licenças, atribuições e restrições das fontes.",
+      "sources": [
+        "demo/audio/narration.wav",
+        "demo/audio/music.wav",
+        "demo/audio/impact.wav",
+        "demo/audio/whoosh.wav"
+      ],
+      "credit": "Mistura Football Shorts Studio. Consultar os créditos da voz, música e efeitos de entrada.",
+      "sha256": "876d0eff8a3816d985c8c17d5186e67b13e33b01ccee08e4827f05aae206db79"
+    },
+    {
+      "file": "demo/audio/narration.wav",
+      "creator": "Piper voice pt_BR-faber-medium / Faber voice dataset",
+      "source": "https://github.com/k2-fsa/sherpa-onnx/releases/download/tts-models/vits-piper-pt_BR-faber-medium.tar.bz2",
+      "license": "CC0 (voice dataset, as documented in the distributed MODEL_CARD)",
+      "rightsBasis": "Synthetic narration generated locally from the Faber Portuguese voice; dataset declared CC0 by the distributed model card. Piper engine GPL-3.0; engine not redistributed in this project.",
+      "modelCardFile": "demo/audio/VOICE_MODEL_CARD.txt",
+      "modelSha256": "956b4f1733903891c4ba0973d0603b2a3d8c09c8432fb3bb5203a90a7431daca",
+      "sha256": "f945f546b4f2a33ff8f1d30aa90a0320bb91d7bbea1bc9802e7ca1e12f17b788",
+      "attributionRequired": false,
+      "credit": "Voz sintética: Piper / Faber (pt-BR), dataset CC0."
+    },
+    {
+      "id": "strike",
+      "file": "demo/images/strike.png",
+      "title": "Chute no estádio",
+      "creator": "OpenAI image_gen, gerado para Football Shorts Studio",
+      "sourceType": "ai-generated-original",
+      "sourceFile": "/workspace/generated_images/exec-1a003b39-03ab-4e3e-840b-3bdd703bb6db.png",
+      "createdDate": "2026-11-01",
+      "rightsBasis": "Output gerado para este projeto; utilização sujeita aos termos aplicáveis à conta que pediu a geração. Não foi incorporada fotografia de terceiros nem foi atribuída uma licença Creative Commons fictícia.",
+      "termsUrl": "https://openai.com/policies/terms-of-use/",
+      "attributionRequired": false,
+      "credit": "Imagem ilustrativa gerada por IA para Football Shorts Studio.",
+      "disclosure": "Cena fictícia. Não retrata uma partida, atleta, equipa ou estádio reais.",
+      "promptSummary": "Fotografia sintética cinematográfica de um jogador anónimo a rematar, chuteira sem marca, estádio fictício noturno.",
+      "sha256": "e3ab17f660d811f62f557408632efcf3a4b2ebc0da5aaff9d4cc87b6762b9308",
+      "sizeBytes": 2191925,
+      "containsAlpha": false
+    },
+    {
+      "id": "spin",
+      "file": "demo/images/spin.png",
+      "title": "Bola com rotação",
+      "creator": "OpenAI image_gen, gerado para Football Shorts Studio",
+      "sourceType": "ai-generated-original",
+      "sourceFile": "/workspace/generated_images/exec-43f40008-40b1-4771-aad7-7f5b11915fee.png",
+      "createdDate": "2026-11-01",
+      "rightsBasis": "Output gerado para este projeto; utilização sujeita aos termos aplicáveis à conta que pediu a geração. Não foi incorporada fotografia de terceiros nem foi atribuída uma licença Creative Commons fictícia.",
+      "termsUrl": "https://openai.com/policies/terms-of-use/",
+      "attributionRequired": false,
+      "credit": "Imagem ilustrativa gerada por IA para Football Shorts Studio.",
+      "disclosure": "Cena fictícia. Não retrata uma partida, atleta, equipa ou estádio reais.",
+      "promptSummary": "Fotografia sintética de uma bola clássica em rotação num estádio noturno fictício.",
+      "sha256": "c4a15bd96d4136035b681e52e47a2581f10221e53ebe64a3d65e312ae469e5e0",
+      "sizeBytes": 2134884,
+      "containsAlpha": false
+    },
+    {
+      "id": "goalkeeper",
+      "file": "demo/images/goalkeeper.png",
+      "title": "Guarda-redes em voo",
+      "creator": "OpenAI image_gen, gerado para Football Shorts Studio",
+      "sourceType": "ai-generated-original",
+      "sourceFile": "/workspace/generated_images/exec-57ea2808-529f-45e6-8b33-ed1572aaa670.png",
+      "createdDate": "2026-11-01",
+      "rightsBasis": "Output gerado para este projeto; utilização sujeita aos termos aplicáveis à conta que pediu a geração. Não foi incorporada fotografia de terceiros nem foi atribuída uma licença Creative Commons fictícia.",
+      "termsUrl": "https://openai.com/policies/terms-of-use/",
+      "attributionRequired": false,
+      "credit": "Imagem ilustrativa gerada por IA para Football Shorts Studio.",
+      "disclosure": "Cena fictícia. Não retrata uma partida, atleta, equipa ou estádio reais.",
+      "promptSummary": "Fotografia sintética de um guarda-redes anónimo a saltar para uma bola, sem equipa real.",
+      "sha256": "84bfc4e206103703dc8ce82b382de22d1aa98894a849831cb7c392da62c6c51d",
+      "sizeBytes": 2481334,
+      "containsAlpha": false
+    },
+    {
+      "id": "ball",
+      "file": "demo/images/ball.png",
+      "title": "Bola recortada",
+      "creator": "OpenAI image_gen, gerado para Football Shorts Studio",
+      "sourceType": "ai-generated-original",
+      "sourceFile": "/workspace/generated_images/exec-45e57fa7-7ead-4f21-a84d-25833a203221.png",
+      "createdDate": "2026-11-01",
+      "rightsBasis": "Output gerado para este projeto; utilização sujeita aos termos aplicáveis à conta que pediu a geração. Não foi incorporada fotografia de terceiros nem foi atribuída uma licença Creative Commons fictícia.",
+      "termsUrl": "https://openai.com/policies/terms-of-use/",
+      "attributionRequired": false,
+      "credit": "Imagem ilustrativa gerada por IA para Football Shorts Studio.",
+      "disclosure": "Cena fictícia. Não retrata uma partida, atleta, equipa ou estádio reais.",
+      "promptSummary": "Bola clássica fotorealista isolada com canal alfa, para profundidade e motion graphics.",
+      "sha256": "25f49ee8d5ffd994b14d9f6a6a157750f9c253e8819735bf1e3691e5c4ac3f02",
+      "sizeBytes": 2701585,
+      "containsAlpha": true
+    },
+    {
+      "id": "raphinha",
+      "file": "demo/images/raphinha.png",
+      "title": "Raphinha — interpretação editorial",
+      "creator": "OpenAI image_gen, gerado para Football Shorts Studio",
+      "sourceType": "ai-generated-editorial-illustration",
+      "sourceFile": "/workspace/generated_images/exec-c585813a-eacc-4066-84d2-1f8e0f54c769.png",
+      "createdDate": "2026-11-01",
+      "rightsBasis": "Output gerado para este projeto; utilização sujeita aos termos aplicáveis à conta que pediu a geração. Não foi incorporada fotografia de terceiros nem foi atribuída uma licença Creative Commons fictícia. Retrato ilustrativo de figura pública para contexto editorial desportivo; não implica patrocínio ou aprovação.",
+      "termsUrl": "https://openai.com/policies/terms-of-use/",
+      "attributionRequired": false,
+      "credit": "Ilustração editorial gerada por IA para Football Shorts Studio.",
+      "disclosure": "Ilustração sintética, não é fotografia documental nem imagem oficial do atleta ou clube.",
+      "promptSummary": "Retrato ilustrado editorial de Raphinha com camisa genérica azul e vermelha, sem marcas, em colagem desportiva.",
+      "sha256": "d54d1c142def682c3910d543e903a16bb5413e55c1f60767a6bf09bde7f5fc89",
+      "sizeBytes": 2969555,
+      "containsAlpha": false
+    },
+    {
+      "id": "mbappe",
+      "file": "demo/images/mbappe.png",
+      "title": "Kylian Mbappé — interpretação editorial",
+      "creator": "OpenAI image_gen, gerado para Football Shorts Studio",
+      "sourceType": "ai-generated-editorial-illustration",
+      "sourceFile": "/workspace/generated_images/exec-aa7d879b-4277-4108-a07b-d5d015e2a62c.png",
+      "createdDate": "2026-11-01",
+      "rightsBasis": "Output gerado para este projeto; utilização sujeita aos termos aplicáveis à conta que pediu a geração. Não foi incorporada fotografia de terceiros nem foi atribuída uma licença Creative Commons fictícia. Retrato ilustrativo de figura pública para contexto editorial desportivo; não implica patrocínio ou aprovação.",
+      "termsUrl": "https://openai.com/policies/terms-of-use/",
+      "attributionRequired": false,
+      "credit": "Ilustração editorial gerada por IA para Football Shorts Studio.",
+      "disclosure": "Ilustração sintética, não é fotografia documental nem imagem oficial do atleta ou clube.",
+      "promptSummary": "Retrato ilustrado editorial de Kylian Mbappé com camisa genérica branca sem marcas, em colagem desportiva.",
+      "sha256": "9baea5cadcb58bf6a7b4250708076e3f5f7994b3cbb22f1bfc83e2aa3418c9df",
+      "sizeBytes": 3246910,
+      "containsAlpha": false
+    },
+    {
+      "file": "fonts/BarlowCondensed-ExtraBold.ttf",
+      "creator": "Jeremy Tribby",
+      "license": "SIL Open Font License 1.1",
+      "source": "https://github.com/google/fonts/tree/main/ofl/barlowcondensed",
+      "licenseFile": "fonts/OFL-BarlowCondensed.txt"
+    },
+    {
+      "file": "fonts/DMSans.ttf",
+      "creator": "Colophon Foundry / DM Sans Project Authors",
+      "license": "SIL Open Font License 1.1",
+      "source": "https://github.com/google/fonts/tree/main/ofl/dmsans",
+      "licenseFile": "fonts/OFL-DMSans.txt"
+    }
+  ],
+  "files": [
+    "/workspace/motiondesign/public/demo/audio/generated-credits.json",
+    "/workspace/motiondesign/public/demo/audio/speech-credits.json",
+    "/workspace/motiondesign/public/demo/images/credits.json",
+    "/workspace/motiondesign/public/fonts/credits.json"
+  ]
+}

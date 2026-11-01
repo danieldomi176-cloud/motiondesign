@@ -1,0 +1,541 @@
+[
+  {
+    "text": " Mbappé",
+    "startMs": 63.129,
+    "endMs": 441.995,
+    "timestampMs": 252.562,
+    "confidence": null
+  },
+  {
+    "text": " está",
+    "startMs": 467.256,
+    "endMs": 719.819,
+    "timestampMs": 593.537,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 782.948,
+    "endMs": 808.209,
+    "timestampMs": 795.578,
+    "confidence": null
+  },
+  {
+    "text": " ser",
+    "startMs": 858.73,
+    "endMs": 1073.424,
+    "timestampMs": 966.077,
+    "confidence": null
+  },
+  {
+    "text": " deixado",
+    "startMs": 1111.293,
+    "endMs": 1730.068,
+    "timestampMs": 1420.68,
+    "confidence": null
+  },
+  {
+    "text": " para",
+    "startMs": 1805.85,
+    "endMs": 2020.544,
+    "timestampMs": 1913.197,
+    "confidence": null
+  },
+  {
+    "text": " trás",
+    "startMs": 2096.281,
+    "endMs": 2336.236,
+    "timestampMs": 2216.259,
+    "confidence": null
+  },
+  {
+    "text": " por",
+    "startMs": 2424.626,
+    "endMs": 2538.277,
+    "timestampMs": 2481.451,
+    "confidence": null
+  },
+  {
+    "text": " um",
+    "startMs": 2576.19,
+    "endMs": 2651.927,
+    "timestampMs": 2614.059,
+    "confidence": null
+  },
+  {
+    "text": " brasileiro!",
+    "startMs": 2677.188,
+    "endMs": 3573.832,
+    "timestampMs": 3125.51,
+    "confidence": null
+  },
+  {
+    "text": " E",
+    "startMs": 3830.612,
+    "endMs": 3944.263,
+    "timestampMs": 3887.438,
+    "confidence": null
+  },
+  {
+    "text": " os",
+    "startMs": 4032.698,
+    "endMs": 4146.349,
+    "timestampMs": 4089.524,
+    "confidence": null
+  },
+  {
+    "text": " números",
+    "startMs": 4196.825,
+    "endMs": 4600.952,
+    "timestampMs": 4398.889,
+    "confidence": null
+  },
+  {
+    "text": " são",
+    "startMs": 4626.213,
+    "endMs": 4815.646,
+    "timestampMs": 4720.93,
+    "confidence": null
+  },
+  {
+    "text": " absurdos!",
+    "startMs": 4866.168,
+    "endMs": 5977.46,
+    "timestampMs": 5421.814,
+    "confidence": null
+  },
+  {
+    "text": " Antes",
+    "startMs": 6221.587,
+    "endMs": 6549.932,
+    "timestampMs": 6385.76,
+    "confidence": null
+  },
+  {
+    "text": " da",
+    "startMs": 6575.193,
+    "endMs": 6688.844,
+    "timestampMs": 6632.018,
+    "confidence": null
+  },
+  {
+    "text": " revelação,",
+    "startMs": 6739.365,
+    "endMs": 7623.356,
+    "timestampMs": 7181.361,
+    "confidence": null
+  },
+  {
+    "text": " inscreve-te",
+    "startMs": 7724.354,
+    "endMs": 8456.825,
+    "timestampMs": 8090.59,
+    "confidence": null
+  },
+  {
+    "text": " para",
+    "startMs": 8494.694,
+    "endMs": 8658.866,
+    "timestampMs": 8576.78,
+    "confidence": null
+  },
+  {
+    "text": " mais",
+    "startMs": 8696.735,
+    "endMs": 8873.56,
+    "timestampMs": 8785.147,
+    "confidence": null
+  },
+  {
+    "text": " futebol.",
+    "startMs": 8936.689,
+    "endMs": 9719.637,
+    "timestampMs": 9328.163,
+    "confidence": null
+  },
+  {
+    "text": " Enquanto",
+    "startMs": 10014.331,
+    "endMs": 10506.848,
+    "timestampMs": 10260.59,
+    "confidence": null
+  },
+  {
+    "text": " todos",
+    "startMs": 10595.238,
+    "endMs": 10948.798,
+    "timestampMs": 10772.018,
+    "confidence": null
+  },
+  {
+    "text": " falam",
+    "startMs": 11011.973,
+    "endMs": 11441.315,
+    "timestampMs": 11226.644,
+    "confidence": null
+  },
+  {
+    "text": " de",
+    "startMs": 11466.576,
+    "endMs": 11580.227,
+    "timestampMs": 11523.401,
+    "confidence": null
+  },
+  {
+    "text": " Mbappé,",
+    "startMs": 11643.356,
+    "endMs": 12388.435,
+    "timestampMs": 12015.896,
+    "confidence": null
+  },
+  {
+    "text": " um",
+    "startMs": 12502.086,
+    "endMs": 12628.39,
+    "timestampMs": 12565.238,
+    "confidence": null
+  },
+  {
+    "text": " jogador",
+    "startMs": 12666.259,
+    "endMs": 13095.646,
+    "timestampMs": 12880.952,
+    "confidence": null
+  },
+  {
+    "text": " do",
+    "startMs": 13120.907,
+    "endMs": 13196.644,
+    "timestampMs": 13158.776,
+    "confidence": null
+  },
+  {
+    "text": " Barcelona",
+    "startMs": 13247.166,
+    "endMs": 13941.723,
+    "timestampMs": 13594.444,
+    "confidence": null
+  },
+  {
+    "text": " está",
+    "startMs": 13966.984,
+    "endMs": 14181.678,
+    "timestampMs": 14074.331,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 14257.46,
+    "endMs": 14282.676,
+    "timestampMs": 14270.068,
+    "confidence": null
+  },
+  {
+    "text": " destruir",
+    "startMs": 14333.197,
+    "endMs": 14787.846,
+    "timestampMs": 14560.522,
+    "confidence": null
+  },
+  {
+    "text": " defesas.",
+    "startMs": 14838.322,
+    "endMs": 16038.05,
+    "timestampMs": 15438.186,
+    "confidence": null
+  },
+  {
+    "text": " Quinze",
+    "startMs": 16282.222,
+    "endMs": 16648.435,
+    "timestampMs": 16465.329,
+    "confidence": null
+  },
+  {
+    "text": " golos",
+    "startMs": 16724.218,
+    "endMs": 17103.039,
+    "timestampMs": 16913.628,
+    "confidence": null
+  },
+  {
+    "text": " em",
+    "startMs": 17166.213,
+    "endMs": 17267.211,
+    "timestampMs": 17216.712,
+    "confidence": null
+  },
+  {
+    "text": " apenas",
+    "startMs": 17305.125,
+    "endMs": 17747.12,
+    "timestampMs": 17526.122,
+    "confidence": null
+  },
+  {
+    "text": " dez",
+    "startMs": 17797.596,
+    "endMs": 17961.769,
+    "timestampMs": 17879.683,
+    "confidence": null
+  },
+  {
+    "text": " jogos",
+    "startMs": 18024.943,
+    "endMs": 18403.764,
+    "timestampMs": 18214.354,
+    "confidence": null
+  },
+  {
+    "text": " na",
+    "startMs": 18466.939,
+    "endMs": 18567.937,
+    "timestampMs": 18517.438,
+    "confidence": null
+  },
+  {
+    "text": " La",
+    "startMs": 18631.066,
+    "endMs": 18732.109,
+    "timestampMs": 18681.587,
+    "confidence": null
+  },
+  {
+    "text": " Liga!",
+    "startMs": 18795.238,
+    "endMs": 19439.32,
+    "timestampMs": 19117.279,
+    "confidence": null
+  },
+  {
+    "text": " Sabes",
+    "startMs": 19670.839,
+    "endMs": 20011.837,
+    "timestampMs": 19841.338,
+    "confidence": null
+  },
+  {
+    "text": " quem",
+    "startMs": 20062.313,
+    "endMs": 20302.268,
+    "timestampMs": 20182.29,
+    "confidence": null
+  },
+  {
+    "text": " é?",
+    "startMs": 20390.658,
+    "endMs": 20706.395,
+    "timestampMs": 20548.526,
+    "confidence": null
+  },
+  {
+    "text": " Raphinha!",
+    "startMs": 20937.914,
+    "endMs": 21695.646,
+    "timestampMs": 21316.78,
+    "confidence": null
+  },
+  {
+    "text": " O",
+    "startMs": 22091.383,
+    "endMs": 22154.512,
+    "timestampMs": 22122.948,
+    "confidence": null
+  },
+  {
+    "text": " brasileiro",
+    "startMs": 22205.034,
+    "endMs": 22785.941,
+    "timestampMs": 22495.488,
+    "confidence": null
+  },
+  {
+    "text": " assumiu",
+    "startMs": 22823.81,
+    "endMs": 23341.587,
+    "timestampMs": 23082.698,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 23404.717,
+    "endMs": 23429.977,
+    "timestampMs": 23417.347,
+    "confidence": null
+  },
+  {
+    "text": " liderança",
+    "startMs": 23467.846,
+    "endMs": 24111.882,
+    "timestampMs": 23789.864,
+    "confidence": null
+  },
+  {
+    "text": " da",
+    "startMs": 24162.404,
+    "endMs": 24250.794,
+    "timestampMs": 24206.599,
+    "confidence": null
+  },
+  {
+    "text": " corrida",
+    "startMs": 24339.229,
+    "endMs": 24755.964,
+    "timestampMs": 24547.596,
+    "confidence": null
+  },
+  {
+    "text": " à",
+    "startMs": 24831.701,
+    "endMs": 24920.136,
+    "timestampMs": 24875.918,
+    "confidence": null
+  },
+  {
+    "text": " Chuteira",
+    "startMs": 25008.526,
+    "endMs": 25437.868,
+    "timestampMs": 25223.197,
+    "confidence": null
+  },
+  {
+    "text": " de",
+    "startMs": 25463.129,
+    "endMs": 25576.78,
+    "timestampMs": 25519.955,
+    "confidence": null
+  },
+  {
+    "text": " Ouro",
+    "startMs": 25602.041,
+    "endMs": 25804.082,
+    "timestampMs": 25703.061,
+    "confidence": null
+  },
+  {
+    "text": " da",
+    "startMs": 25841.995,
+    "endMs": 25905.125,
+    "timestampMs": 25873.56,
+    "confidence": null
+  },
+  {
+    "text": " Europa!",
+    "startMs": 25955.646,
+    "endMs": 26776.463,
+    "timestampMs": 26366.054,
+    "confidence": null
+  },
+  {
+    "text": " Quem",
+    "startMs": 27020.68,
+    "endMs": 27210.113,
+    "timestampMs": 27115.397,
+    "confidence": null
+  },
+  {
+    "text": " está",
+    "startMs": 27247.982,
+    "endMs": 27450.023,
+    "timestampMs": 27349.002,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 27475.283,
+    "endMs": 27500.544,
+    "timestampMs": 27487.914,
+    "confidence": null
+  },
+  {
+    "text": " jogar",
+    "startMs": 27525.805,
+    "endMs": 27866.757,
+    "timestampMs": 27696.281,
+    "confidence": null
+  },
+  {
+    "text": " melhor",
+    "startMs": 27917.279,
+    "endMs": 28207.755,
+    "timestampMs": 28062.517,
+    "confidence": null
+  },
+  {
+    "text": " nesta",
+    "startMs": 28245.624,
+    "endMs": 28485.578,
+    "timestampMs": 28365.601,
+    "confidence": null
+  },
+  {
+    "text": " temporada?",
+    "startMs": 28561.315,
+    "endMs": 29546.349,
+    "timestampMs": 29053.832,
+    "confidence": null
+  },
+  {
+    "text": " Comenta",
+    "startMs": 29790.522,
+    "endMs": 30219.864,
+    "timestampMs": 30005.193,
+    "confidence": null
+  },
+  {
+    "text": " Raphinha",
+    "startMs": 30270.385,
+    "endMs": 30775.51,
+    "timestampMs": 30522.948,
+    "confidence": null
+  },
+  {
+    "text": " ou",
+    "startMs": 30800.771,
+    "endMs": 30889.206,
+    "timestampMs": 30844.989,
+    "confidence": null
+  },
+  {
+    "text": " Mbappé",
+    "startMs": 30927.075,
+    "endMs": 31520.59,
+    "timestampMs": 31223.832,
+    "confidence": null
+  },
+  {
+    "text": " e",
+    "startMs": 31621.633,
+    "endMs": 31710.023,
+    "timestampMs": 31665.828,
+    "confidence": null
+  },
+  {
+    "text": " inscreve-te",
+    "startMs": 31735.283,
+    "endMs": 32455.102,
+    "timestampMs": 32095.193,
+    "confidence": null
+  },
+  {
+    "text": " para",
+    "startMs": 32505.624,
+    "endMs": 32657.143,
+    "timestampMs": 32581.383,
+    "confidence": null
+  },
+  {
+    "text": " mais",
+    "startMs": 32720.317,
+    "endMs": 32909.705,
+    "timestampMs": 32815.011,
+    "confidence": null
+  },
+  {
+    "text": " futebol!",
+    "startMs": 32947.619,
+    "endMs": 33755.828,
+    "timestampMs": 33351.723,
+    "confidence": null
+  }
+]

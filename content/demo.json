@@ -1,0 +1,132 @@
+{
+  "id": "raphinha-vs-mbappe",
+  "title": "Raphinha vs. Mbappé",
+  "language": "pt-BR",
+  "durationSeconds": 34,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "editorial": {
+    "status": "unverified",
+    "notice": "DEMO · DADOS POR VALIDAR",
+    "sources": []
+  },
+  "publication": {
+    "title": "Raphinha ou Mbappé: quem está a jogar mais? ⚽ #Shorts",
+    "description": "DEMONSTRAÇÃO TÉCNICA — NÃO PUBLICAR COMO NOTÍCIA. Roteiro fornecido pelo utilizador; as afirmações sobre 15 golos em 10 jogos e liderança da Chuteira de Ouro não foram verificadas. Falta indicar temporada, data e fontes. Ilustrações editoriais geradas por IA, sem fotografias documentais ou imagens de transmissão. Voz sintética em português. Comenta RAPHINHA ou MBAPPÉ e inscreve-te para mais futebol.",
+    "hashtags": [
+      "#Shorts",
+      "#Futebol",
+      "#Raphinha",
+      "#Mbappe",
+      "#LaLiga"
+    ]
+  },
+  "audio": {
+    "narration": "demo/audio/narration.wav",
+    "music": "demo/audio/music.wav",
+    "impact": "demo/audio/impact.wav",
+    "whoosh": "demo/audio/whoosh.wav",
+    "mix": "demo/audio/mix.wav",
+    "musicMode": "generated"
+  },
+  "captionsFile": "demo/captions.json",
+  "speechManifestFile": "demo/speech-manifest.json",
+  "scenes": [
+    {
+      "id": "hook",
+      "start": 0.0,
+      "duration": 6.2,
+      "kind": "hook",
+      "eyebrow": "O DUELO ESTÁ AO RUBRO",
+      "headline": "MBAPPÉ\nFICOU PARA TRÁS?",
+      "accent": "UM BRASILEIRO ENTROU EM CENA",
+      "image": "demo/images/mbappe.png",
+      "narration": "Mbappé está a ser deixado para trás por um brasileiro! E os números são absurdos!",
+      "details": [
+        "ALERTA NO FUTEBOL"
+      ]
+    },
+    {
+      "id": "subscribe",
+      "start": 6.2,
+      "duration": 3.766667,
+      "kind": "tease",
+      "eyebrow": "FUTEBOL SEM RODEIOS",
+      "headline": "NÃO PERCAS\nA REVELAÇÃO.",
+      "accent": "INSCREVE-TE PARA MAIS FUTEBOL",
+      "image": "demo/images/strike.png",
+      "narration": "Antes da revelação, inscreve-te para mais futebol.",
+      "foregroundImage": "demo/images/ball.png"
+    },
+    {
+      "id": "barcelona",
+      "start": 9.966666666666667,
+      "duration": 6.3,
+      "kind": "duel",
+      "eyebrow": "TODOS FALAM DE MBAPPÉ…",
+      "headline": "MAS HÁ UM\nBRASILEIRO…",
+      "accent": "BARCELONA · EM DESTAQUE",
+      "image": "demo/images/raphinha.png",
+      "narration": "Enquanto todos falam de Mbappé, um jogador do Barcelona está a destruir defesas."
+    },
+    {
+      "id": "numbers",
+      "start": 16.266666666666666,
+      "duration": 3.366667,
+      "kind": "stat",
+      "eyebrow": "OS NÚMEROS DO ROTEIRO",
+      "headline": "15",
+      "accent": "GOLOS EM 10 JOGOS",
+      "image": "demo/images/spin.png",
+      "narration": "Quinze golos em apenas dez jogos na La Liga!",
+      "details": [
+        "GOLOS EM",
+        "10 JOGOS",
+        "LA LIGA · AFIRMAÇÃO DO ROTEIRO"
+      ]
+    },
+    {
+      "id": "reveal",
+      "start": 19.633333333333333,
+      "duration": 2.366667,
+      "kind": "reveal",
+      "eyebrow": "E SABES QUEM É?",
+      "headline": "RAPHINHA",
+      "accent": "BRASIL / BARCELONA",
+      "image": "demo/images/raphinha.png",
+      "narration": "Sabes quem é? Raphinha!",
+      "details": [
+        "O BRASILEIRO",
+        "É ELE."
+      ]
+    },
+    {
+      "id": "golden-boot",
+      "start": 22.0,
+      "duration": 5.0,
+      "kind": "duel",
+      "eyebrow": "CHUTEIRA DE OURO DA EUROPA",
+      "headline": "UMA ÉPOCA\nABSURDA?",
+      "accent": "A CORRIDA ESTÁ LANÇADA",
+      "image": "demo/images/raphinha.png",
+      "narration": "O brasileiro assumiu a liderança da corrida à Chuteira de Ouro da Europa!"
+    },
+    {
+      "id": "vote",
+      "start": 27.0,
+      "duration": 7.0,
+      "kind": "cta",
+      "eyebrow": "AGORA A DECISÃO É TUA",
+      "headline": "QUEM JOGA\nMAIS?",
+      "accent": "RAPHINHA OU MBAPPÉ?",
+      "image": "demo/images/mbappe.png",
+      "narration": "Quem está a jogar melhor nesta temporada? Comenta Raphinha ou Mbappé e inscreve-te para mais futebol!",
+      "secondaryImage": "demo/images/raphinha.png",
+      "details": [
+        "RAPHINHA",
+        "MBAPPÉ"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "assets": [
+    {
+      "file": "demo/audio/narration.wav",
+      "creator": "Piper voice pt_BR-faber-medium / Faber voice dataset",
+      "source": "https://github.com/k2-fsa/sherpa-onnx/releases/download/tts-models/vits-piper-pt_BR-faber-medium.tar.bz2",
+      "license": "CC0 (voice dataset, as documented in the distributed MODEL_CARD)",
+      "rightsBasis": "Synthetic narration generated locally from the Faber Portuguese voice; dataset declared CC0 by the distributed model card. Piper engine GPL-3.0; engine not redistributed in this project.",
+      "modelCardFile": "demo/audio/VOICE_MODEL_CARD.txt",
+      "modelSha256": "956b4f1733903891c4ba0973d0603b2a3d8c09c8432fb3bb5203a90a7431daca",
+      "sha256": "f945f546b4f2a33ff8f1d30aa90a0320bb91d7bbea1bc9802e7ca1e12f17b788",
+      "attributionRequired": false,
+      "credit": "Voz sintética: Piper / Faber (pt-BR), dataset CC0."
+    }
+  ]
+}

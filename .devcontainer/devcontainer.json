@@ -1,0 +1,20 @@
+{
+  "name": "Football Shorts Studio",
+  "image": "mcr.microsoft.com/devcontainers/typescript-node:1-24-bookworm",
+  "forwardPorts": [3000],
+  "portsAttributes": {
+    "3000": {
+      "label": "Remotion Studio",
+      "onAutoForward": "notify"
+    }
+  },
+  "containerEnv": {
+    "BROWSER_EXECUTABLE": "/usr/bin/chromium"
+  },
+  "postCreateCommand": "sudo apt-get update && sudo apt-get install -y ffmpeg chromium fonts-dejavu-core && npm ci",
+  "customizations": {
+    "vscode": {
+      "extensions": ["dbaeumer.vscode-eslint", "esbenp.prettier-vscode"]
+    }
+  }
+}

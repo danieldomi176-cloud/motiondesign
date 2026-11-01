@@ -1,0 +1,25 @@
+Raphinha ou Mbappé: quem está a jogar mais? ⚽ #Shorts
+
+DEMONSTRAÇÃO TÉCNICA — NÃO PUBLICAR COMO NOTÍCIA. Roteiro fornecido pelo utilizador; as afirmações sobre 15 golos em 10 jogos e liderança da Chuteira de Ouro não foram verificadas. Falta indicar temporada, data e fontes. Ilustrações editoriais geradas por IA, sem fotografias documentais ou imagens de transmissão. Voz sintética em português. Comenta RAPHINHA ou MBAPPÉ e inscreve-te para mais futebol.
+
+#Shorts #Futebol #Raphinha #Mbappe #LaLiga
+
+Estado editorial: unverified
+DEMO · DADOS POR VALIDAR
+Contém imagens ilustrativas geradas por IA e narração sintética.
+
+Créditos:
+demo/audio/music.wav: Música e efeitos sonoros originais — Football Shorts Studio.
+demo/audio/impact.wav: Música e efeitos sonoros originais — Football Shorts Studio.
+demo/audio/whoosh.wav: Música e efeitos sonoros originais — Football Shorts Studio.
+demo/audio/timeline-effects.generated.wav: Mistura Football Shorts Studio. Consultar os créditos da voz, música e efeitos de entrada.
+demo/audio/mix.wav: Mistura Football Shorts Studio. Consultar os créditos da voz, música e efeitos de entrada.
+demo/audio/narration.wav: Voz sintética: Piper / Faber (pt-BR), dataset CC0.
+demo/images/strike.png: Imagem ilustrativa gerada por IA para Football Shorts Studio.
+demo/images/spin.png: Imagem ilustrativa gerada por IA para Football Shorts Studio.
+demo/images/goalkeeper.png: Imagem ilustrativa gerada por IA para Football Shorts Studio.
+demo/images/ball.png: Imagem ilustrativa gerada por IA para Football Shorts Studio.
+demo/images/raphinha.png: Ilustração editorial gerada por IA para Football Shorts Studio.
+demo/images/mbappe.png: Ilustração editorial gerada por IA para Football Shorts Studio.
+fonts/BarlowCondensed-ExtraBold.ttf: Jeremy Tribby
+fonts/DMSans.ttf: Colophon Foundry / DM Sans Project Authors

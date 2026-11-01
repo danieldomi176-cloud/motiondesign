@@ -1,0 +1,55 @@
+name: Render Football Short
+
+on:
+  workflow_dispatch:
+    inputs:
+      project:
+        description: Ficheiro de projeto dentro do repositório
+        required: true
+        default: content/demo.json
+        type: string
+  push:
+    paths:
+      - 'src/**'
+      - 'scripts/**'
+      - 'tests/**'
+      - 'content/**'
+      - 'public/**'
+      - 'package*.json'
+      - '.github/workflows/render.yml'
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  render:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    env:
+      BROWSER_EXECUTABLE: /usr/bin/google-chrome
+      PROJECT_FILE: ${{ inputs.project || 'content/demo.json' }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+      - name: Instalar FFmpeg e fontes
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg fonts-dejavu-core
+      - name: Instalar dependências bloqueadas
+        run: npm ci
+      - name: Verificar tipos e testes
+        run: npm run typecheck && npm test
+      - name: Verificar ferramentas reais
+        run: npm run doctor
+      - name: Renderizar e validar MP4
+        run: npm run render -- --project "$PROJECT_FILE"
+      - name: Disponibilizar vídeo, créditos e relatórios
+        if: success()
+        uses: actions/upload-artifact@v4
+        with:
+          name: football-short-${{ github.run_id }}
+          path: out/
+          if-no-files-found: error
+          retention-days: 14

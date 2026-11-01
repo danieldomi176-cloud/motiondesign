@@ -1,0 +1,59 @@
+{
+  "assets": [
+    {
+      "file": "demo/audio/music.wav",
+      "creator": "Football Shorts Studio procedural synthesizer",
+      "sourceType": "procedural-original",
+      "rightsBasis": "Composição e síntese originais geradas pelo código deste projeto. Sem samples externos.",
+      "credit": "Música e efeitos sonoros originais — Football Shorts Studio.",
+      "sha256": "bc672a4f624f5b7a589609d269319117c1035714f86100226c7b6f93cc3f8711",
+      "attributionRequired": false
+    },
+    {
+      "file": "demo/audio/impact.wav",
+      "creator": "Football Shorts Studio procedural synthesizer",
+      "sourceType": "procedural-original",
+      "rightsBasis": "Composição e síntese originais geradas pelo código deste projeto. Sem samples externos.",
+      "credit": "Música e efeitos sonoros originais — Football Shorts Studio.",
+      "sha256": "16dafa922d9408cab3e203a9e4fcbfb104308eacc51655eb8475ab23b2cee31b",
+      "attributionRequired": false
+    },
+    {
+      "file": "demo/audio/whoosh.wav",
+      "creator": "Football Shorts Studio procedural synthesizer",
+      "sourceType": "procedural-original",
+      "rightsBasis": "Composição e síntese originais geradas pelo código deste projeto. Sem samples externos.",
+      "credit": "Música e efeitos sonoros originais — Football Shorts Studio.",
+      "sha256": "950da9f2c022280c6ac0b528b4ad08f433faf476d45fb28c909d01721212c95d",
+      "attributionRequired": false
+    },
+    {
+      "file": "demo/audio/timeline-effects.generated.wav",
+      "creator": "Football Shorts Studio FFmpeg mixer",
+      "sourceType": "derived-audio-mix",
+      "rightsBasis": "Mistura derivada dos recursos identificados; mantém as licenças, atribuições e restrições das fontes.",
+      "sources": [
+        "demo/audio/narration.wav",
+        "demo/audio/music.wav",
+        "demo/audio/impact.wav",
+        "demo/audio/whoosh.wav"
+      ],
+      "credit": "Mistura Football Shorts Studio. Consultar os créditos da voz, música e efeitos de entrada.",
+      "sha256": "999103732c4828a4d0441e87f853c85f37c5025ff1b30c9df5bcc5d0cab68ac0"
+    },
+    {
+      "file": "demo/audio/mix.wav",
+      "creator": "Football Shorts Studio FFmpeg mixer",
+      "sourceType": "derived-audio-mix",
+      "rightsBasis": "Mistura derivada dos recursos identificados; mantém as licenças, atribuições e restrições das fontes.",
+      "sources": [
+        "demo/audio/narration.wav",
+        "demo/audio/music.wav",
+        "demo/audio/impact.wav",
+        "demo/audio/whoosh.wav"
+      ],
+      "credit": "Mistura Football Shorts Studio. Consultar os créditos da voz, música e efeitos de entrada.",
+      "sha256": "876d0eff8a3816d985c8c17d5186e67b13e33b01ccee08e4827f05aae206db79"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "checkedAt": "2026-11-01T17:18:56.984Z",
+  "platform": "linux x64",
+  "node": "v24.19.0",
+  "ffmpeg": {
+    "available": true,
+    "version": "ffmpeg version 7.1.5-0+deb13u1 Copyright (c) 2000-2026 the FFmpeg developers",
+    "h264Encoder": true,
+    "aacEncoder": true
+  },
+  "ffprobe": {
+    "available": true,
+    "version": "ffprobe version 7.1.5-0+deb13u1 Copyright (c) 2007-2026 the FFmpeg developers"
+  },
+  "browser": {
+    "path": "/usr/bin/chromium",
+    "version": "Chromium 154.0.8037.57 built on Debian GNU/Linux 13 (trixie)",
+    "launchOk": true
+  },
+  "neuralSpeechModel": {
+    "configured": false,
+    "note": "A existência de um modelo não comprova a sua licença ou execução; consultar speech-manifest.json."
+  },
+  "apiVoiceCredentials": {
+    "openaiConfigured": false,
+    "elevenLabsConfigured": false
+  },
+  "renderingReady": true
+}

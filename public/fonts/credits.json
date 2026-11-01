@@ -1,0 +1,6 @@
+{
+  "assets": [
+    {"file":"fonts/BarlowCondensed-ExtraBold.ttf","creator":"Jeremy Tribby","license":"SIL Open Font License 1.1","source":"https://github.com/google/fonts/tree/main/ofl/barlowcondensed","licenseFile":"fonts/OFL-BarlowCondensed.txt"},
+    {"file":"fonts/DMSans.ttf","creator":"Colophon Foundry / DM Sans Project Authors","license":"SIL Open Font License 1.1","source":"https://github.com/google/fonts/tree/main/ofl/dmsans","licenseFile":"fonts/OFL-DMSans.txt"}
+  ]
+}

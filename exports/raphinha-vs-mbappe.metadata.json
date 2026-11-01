@@ -1,0 +1,108 @@
+{
+  "title": "Raphinha ou Mbappé: quem está a jogar mais? ⚽ #Shorts",
+  "description": "DEMONSTRAÇÃO TÉCNICA — NÃO PUBLICAR COMO NOTÍCIA. Roteiro fornecido pelo utilizador; as afirmações sobre 15 golos em 10 jogos e liderança da Chuteira de Ouro não foram verificadas. Falta indicar temporada, data e fontes. Ilustrações editoriais geradas por IA, sem fotografias documentais ou imagens de transmissão. Voz sintética em português. Comenta RAPHINHA ou MBAPPÉ e inscreve-te para mais futebol.",
+  "hashtags": [
+    "#Shorts",
+    "#Futebol",
+    "#Raphinha",
+    "#Mbappe",
+    "#LaLiga"
+  ],
+  "language": "pt-BR",
+  "editorialStatus": "unverified",
+  "readyToPublish": false,
+  "editorialNotice": "DEMO · DADOS POR VALIDAR",
+  "sources": [],
+  "disclosure": "Contém imagens ilustrativas geradas por IA e narração sintética.",
+  "credits": [
+    {
+      "file": "demo/audio/music.wav",
+      "credit": "Música e efeitos sonoros originais — Football Shorts Studio.",
+      "creator": "Football Shorts Studio procedural synthesizer",
+      "rightsBasis": "Composição e síntese originais geradas pelo código deste projeto. Sem samples externos."
+    },
+    {
+      "file": "demo/audio/impact.wav",
+      "credit": "Música e efeitos sonoros originais — Football Shorts Studio.",
+      "creator": "Football Shorts Studio procedural synthesizer",
+      "rightsBasis": "Composição e síntese originais geradas pelo código deste projeto. Sem samples externos."
+    },
+    {
+      "file": "demo/audio/whoosh.wav",
+      "credit": "Música e efeitos sonoros originais — Football Shorts Studio.",
+      "creator": "Football Shorts Studio procedural synthesizer",
+      "rightsBasis": "Composição e síntese originais geradas pelo código deste projeto. Sem samples externos."
+    },
+    {
+      "file": "demo/audio/timeline-effects.generated.wav",
+      "credit": "Mistura Football Shorts Studio. Consultar os créditos da voz, música e efeitos de entrada.",
+      "creator": "Football Shorts Studio FFmpeg mixer",
+      "rightsBasis": "Mistura derivada dos recursos identificados; mantém as licenças, atribuições e restrições das fontes."
+    },
+    {
+      "file": "demo/audio/mix.wav",
+      "credit": "Mistura Football Shorts Studio. Consultar os créditos da voz, música e efeitos de entrada.",
+      "creator": "Football Shorts Studio FFmpeg mixer",
+      "rightsBasis": "Mistura derivada dos recursos identificados; mantém as licenças, atribuições e restrições das fontes."
+    },
+    {
+      "file": "demo/audio/narration.wav",
+      "credit": "Voz sintética: Piper / Faber (pt-BR), dataset CC0.",
+      "creator": "Piper voice pt_BR-faber-medium / Faber voice dataset",
+      "rightsBasis": "Synthetic narration generated locally from the Faber Portuguese voice; dataset declared CC0 by the distributed model card. Piper engine GPL-3.0; engine not redistributed in this project.",
+      "license": "CC0 (voice dataset, as documented in the distributed MODEL_CARD)"
+    },
+    {
+      "file": "demo/images/strike.png",
+      "credit": "Imagem ilustrativa gerada por IA para Football Shorts Studio.",
+      "creator": "OpenAI image_gen, gerado para Football Shorts Studio",
+      "rightsBasis": "Output gerado para este projeto; utilização sujeita aos termos aplicáveis à conta que pediu a geração. Não foi incorporada fotografia de terceiros nem foi atribuída uma licença Creative Commons fictícia.",
+      "termsUrl": "https://openai.com/policies/terms-of-use/"
+    },
+    {
+      "file": "demo/images/spin.png",
+      "credit": "Imagem ilustrativa gerada por IA para Football Shorts Studio.",
+      "creator": "OpenAI image_gen, gerado para Football Shorts Studio",
+      "rightsBasis": "Output gerado para este projeto; utilização sujeita aos termos aplicáveis à conta que pediu a geração. Não foi incorporada fotografia de terceiros nem foi atribuída uma licença Creative Commons fictícia.",
+      "termsUrl": "https://openai.com/policies/terms-of-use/"
+    },
+    {
+      "file": "demo/images/goalkeeper.png",
+      "credit": "Imagem ilustrativa gerada por IA para Football Shorts Studio.",
+      "creator": "OpenAI image_gen, gerado para Football Shorts Studio",
+      "rightsBasis": "Output gerado para este projeto; utilização sujeita aos termos aplicáveis à conta que pediu a geração. Não foi incorporada fotografia de terceiros nem foi atribuída uma licença Creative Commons fictícia.",
+      "termsUrl": "https://openai.com/policies/terms-of-use/"
+    },
+    {
+      "file": "demo/images/ball.png",
+      "credit": "Imagem ilustrativa gerada por IA para Football Shorts Studio.",
+      "creator": "OpenAI image_gen, gerado para Football Shorts Studio",
+      "rightsBasis": "Output gerado para este projeto; utilização sujeita aos termos aplicáveis à conta que pediu a geração. Não foi incorporada fotografia de terceiros nem foi atribuída uma licença Creative Commons fictícia.",
+      "termsUrl": "https://openai.com/policies/terms-of-use/"
+    },
+    {
+      "file": "demo/images/raphinha.png",
+      "credit": "Ilustração editorial gerada por IA para Football Shorts Studio.",
+      "creator": "OpenAI image_gen, gerado para Football Shorts Studio",
+      "rightsBasis": "Output gerado para este projeto; utilização sujeita aos termos aplicáveis à conta que pediu a geração. Não foi incorporada fotografia de terceiros nem foi atribuída uma licença Creative Commons fictícia. Retrato ilustrativo de figura pública para contexto editorial desportivo; não implica patrocínio ou aprovação.",
+      "termsUrl": "https://openai.com/policies/terms-of-use/"
+    },
+    {
+      "file": "demo/images/mbappe.png",
+      "credit": "Ilustração editorial gerada por IA para Football Shorts Studio.",
+      "creator": "OpenAI image_gen, gerado para Football Shorts Studio",
+      "rightsBasis": "Output gerado para este projeto; utilização sujeita aos termos aplicáveis à conta que pediu a geração. Não foi incorporada fotografia de terceiros nem foi atribuída uma licença Creative Commons fictícia. Retrato ilustrativo de figura pública para contexto editorial desportivo; não implica patrocínio ou aprovação.",
+      "termsUrl": "https://openai.com/policies/terms-of-use/"
+    },
+    {
+      "file": "fonts/BarlowCondensed-ExtraBold.ttf",
+      "creator": "Jeremy Tribby",
+      "license": "SIL Open Font License 1.1"
+    },
+    {
+      "file": "fonts/DMSans.ttf",
+      "creator": "Colophon Foundry / DM Sans Project Authors",
+      "license": "SIL Open Font License 1.1"
+    }
+  ]
+}
